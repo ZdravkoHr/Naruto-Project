@@ -93,13 +93,6 @@ export default {
 		},
 	},
 
-	// watch: {
-	// 	activeIndex(curr, prev) {
-	// 		this.charactersElements[prev].classList.remove('active');
-	// 		this.charactersElements[curr].classList.add('active');
-	// 	},
-	// },
-
 	components: {
 		Character,
 	},
